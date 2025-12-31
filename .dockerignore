@@ -1,3 +1,4 @@
-Makefile
 Dockerfile
-/examples/
+.git
+.gitignore
+.idea
